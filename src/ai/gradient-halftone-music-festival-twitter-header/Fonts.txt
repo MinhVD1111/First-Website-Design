@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Public Sans
+Author: Multiple Designers
+Url: https://fonts.google.com/specimen/Public+Sans
+
+Font: Montserrat
+Author: Julieta Ulanovsky,Sol Matas,Juan Pablo del Peral,Jacques Le Bailly
+Url: https://fonts.google.com/specimen/Montserrat
