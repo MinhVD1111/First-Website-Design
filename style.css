@@ -181,13 +181,9 @@ body {
 }
 
 #hero button {
-    background-image: url("src/button.png");
-    background-position: center;
-    background-color: transparent;
+    background: linear-gradient(        60deg,        #1FA2FF 60%,        #12D8FA,        #A6FFCB    );
     color: white;
-    border: 0;
-    padding: 14px 80px 14px 65px;
-    background-repeat: no-repeat;
+    padding: 14px 60px 14px 60px;
     cursor: pointer;
     font-weight: 700;
     font-size: 15px;
